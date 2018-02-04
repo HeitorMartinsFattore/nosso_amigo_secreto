@@ -1,4 +1,4 @@
-class RaffleService
+koutclass RaffleService
   def initialize(campaign)
     @campaign = campaign
   end
